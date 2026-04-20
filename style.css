@@ -64,3 +64,15 @@ button {
 .optr {
     color: gold;
 }
+
+.history {
+    margin-top: 10px;
+    max-height: 150px;
+    overflow-y: auto;
+    color: white;
+    font-size: 14px;
+}
+.history li {
+    list-style: none;
+    padding: 4px;
+}
